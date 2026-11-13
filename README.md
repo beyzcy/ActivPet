@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/activpet_banner.png" alt="ActivPet – Gamified Self-Care App" width="100%">
+</p>
+
 # Self-Care App 🌱✨
 
 A gamified self-care Android application that helps users build healthy daily habits while taking care of their virtual pet 🚀🐾.
